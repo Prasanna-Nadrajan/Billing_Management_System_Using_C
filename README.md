@@ -24,4 +24,4 @@ The **Billing Management System** is a console-based application developed in C.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/Prasanna-Nadrajan/Billing_Management_System_Using_C.git
