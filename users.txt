@@ -1,2 +1,0 @@
-prasanna:12345:admin
-prasana:12345:user

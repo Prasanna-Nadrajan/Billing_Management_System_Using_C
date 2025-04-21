@@ -1,8 +1,0 @@
-Customer: prasanna, Amount: 345
-Customer: prathap, Amount: 5678
-Customer: prasanna, Amount: 567
-Customer: chikkam, Amount: 6969
-Customer: subash, Amount: 200000
-Customer: Prasanna Nadrajan, Amount: 4444444
-Customer: Prasanna Nadrajan, Amount: 4444444
-Customer: prasanna, Amount: 2345

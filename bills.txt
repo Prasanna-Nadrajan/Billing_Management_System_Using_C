@@ -1,7 +1,0 @@
-Customer: prasanna, Amount: 123
-Customer: prathap, Amount: 4567
-Customer: sai rajaram, Amount: 4567
-Customer: rohan, Amount: 897
-Customer: Prasanna Nadrajan, Amount: 4444444
-Customer: Prasanna Nadrajan, Amount: 4444444
-Customer: prasanna, Amount: 2345
